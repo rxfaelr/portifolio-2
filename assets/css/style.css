@@ -430,6 +430,19 @@ section .container {
   margin-bottom: 0;
 }
 
+.about-me img.profile-img {
+  border-radius: 50% !important;
+  width: 400px !important;
+  height: 400px !important;
+  max-width: 300px !important;
+  max-height: 300px !important;
+  object-fit: cover;
+  object-position: 50% 20%;
+  display: block;
+  margin: 0 auto;
+  margin-top: 80px;
+  margin-right: 80px;
+}
 /*--------------------------------------------------------------
 # Counts
 --------------------------------------------------------------*/
